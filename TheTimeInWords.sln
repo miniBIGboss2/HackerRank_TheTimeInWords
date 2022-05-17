@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheTimeInWordsHackerRank", "TheTimeInWordsHackerRank\TheTimeInWordsHackerRank.csproj", "{034074A1-55A7-4B25-936D-9F83B20C6747}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheTimeInWordsHackerRank.UnitTests", "TheTimeInWords.UnitTests\TheTimeInWordsHackerRank.UnitTests.csproj", "{04AAC65A-B731-42B3-BC5E-8025A98AB7FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{034074A1-55A7-4B25-936D-9F83B20C6747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{034074A1-55A7-4B25-936D-9F83B20C6747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{034074A1-55A7-4B25-936D-9F83B20C6747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{034074A1-55A7-4B25-936D-9F83B20C6747}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04AAC65A-B731-42B3-BC5E-8025A98AB7FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04AAC65A-B731-42B3-BC5E-8025A98AB7FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04AAC65A-B731-42B3-BC5E-8025A98AB7FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04AAC65A-B731-42B3-BC5E-8025A98AB7FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5582FF2C-8056-44C3-B19F-1AC7B45FB006}
+	EndGlobalSection
+EndGlobal
